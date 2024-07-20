@@ -14,7 +14,7 @@ This is a simple calculator application implemented using HTML, CSS, and JavaScr
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/basic-calculator.git
+    git clone https://github.com/yourusername/Speedrun-Calculator.git
     ```
 2. Navigate to the project directory:
     ```sh
