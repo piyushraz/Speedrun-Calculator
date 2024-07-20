@@ -1,4 +1,4 @@
-# Basic Calculator
+# Speedrun Calculator
 
 This is a simple calculator application implemented using HTML, CSS, and JavaScript. It performs basic mathematical calculations such as addition, subtraction, multiplication, and division.
 
@@ -18,7 +18,7 @@ This is a simple calculator application implemented using HTML, CSS, and JavaScr
     ```
 2. Navigate to the project directory:
     ```sh
-    cd basic-calculator
+    cd Speedrun-Calculator
     ```
 
 ### Usage
@@ -29,3 +29,6 @@ This is a simple calculator application implemented using HTML, CSS, and JavaScr
 
 2. The calculator interface will be displayed. You can use the on-screen buttons to perform calculations.
 
+## Acknowledgments
+
+- Inspired by various online calculator projects.
